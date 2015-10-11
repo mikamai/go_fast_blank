@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
 
   s.authors = ['Massimo Ronca']
   s.email = 'massimo@mikamai.com'
-  s.homepage = 'https://github.com/wstucco/go_fast_blank'
+  s.homepage = 'https://github.com/mikamai/go_fast_blank'
   s.license = 'MIT'
 
   s.extensions = ['ext/go_fast_blank/extconf.rb']
